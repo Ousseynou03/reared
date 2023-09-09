@@ -1,0 +1,10 @@
+{
+  "simulation": "REQRES.Test",
+  "simulationId": "test-20230909032214280",
+  "start": 1694229737003,
+  "description": "test reqres",
+  "scenarios": ["GET USER", "GET PAGE 2", "POST USER"],
+  "assertions": [
+
+  ]
+}
